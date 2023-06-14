@@ -31,30 +31,31 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "How to build a Power Apps Component using TypeScript 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Use your coding skills to build custom controls that will be deployed to the Dataverse to be accessed by citizen developers as drag-and-drop controls for their applications. ",
+    url: "https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-build-power-apps-custom-controls-using-typescript/ba-p/3684073",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Access advancements in AI with OpenAI GPT3 within the Power Platform",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This blog is for you to get a brief introduction to these advancements in the field of AI and how you can leverage them using the least engineering qualifications. .",
+    url: "https://techcommunity.microsoft.com/t5/educator-developer-blog/access-advancements-in-ai-with-openai-gpt3-within-the-power/ba-p/3737981",
   },
   {
-    title: "My Resume Site",
+    title: "Launch into the Cloud with GitHub and Azure",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "There is nothing that speaks more dev than having a recruiter ask for your resume and you point them to a url",
+    url: "https://github.com/microsoft/workshop-library/tree/main/short/deploy-to-azure-from-github#launch-into-the-cloud-with-github-and-azure",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Use GitHub Codespaces to accelerate your projects",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Short video to explain why you should use GitHub Codespaces, and how to access it for free as a student.",
+    url: "https://youtu.be/A-WYJ0BUVQ4",
   },
 ];
+
 
 const Portfolio = () => {
   return (
